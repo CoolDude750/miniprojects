@@ -1,0 +1,26 @@
+2022-07-13 12:06:21,955 root WARNING this is the warm message
+2022-07-13 12:06:21,955 root ERROR this is a error msg
+2022-07-13 12:06:21,955 root INFO The number entered by user is 3 and 0
+2022-07-13 12:06:55,348 root WARNING this is the warm message
+2022-07-13 12:06:55,348 root ERROR this is a error msg
+2022-07-13 12:06:55,348 root INFO The number entered by user is 3 and 2
+2022-07-13 12:14:09,558 root WARNING this is the warm message
+2022-07-13 12:14:09,559 root ERROR this is a error msg
+2022-07-13 12:14:09,559 root INFO The number entered by user is 3 and 2
+2022-07-13 12:14:09,559 root INFO we are into function
+2022-07-13 12:14:09,559 root INFO we have completed a division operation 
+2022-07-13 12:14:38,293 root WARNING this is the warm message
+2022-07-13 12:14:38,293 root ERROR this is a error msg
+2022-07-13 12:14:38,293 root INFO The number entered by user is 3 and 0
+2022-07-13 12:14:38,293 root INFO we are into function
+2022-07-13 12:14:38,293 root ERROR division by zero
+Traceback (most recent call last):
+  File "C:\Users\uikey\PycharmProjects\pythonProject1\test3.py", line 10, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+2022-07-13 12:20:06,278 root WARNING this is the warm message
+2022-07-13 12:20:06,279 root ERROR this is a error msg
+2022-07-13 12:20:06,279 root INFO The number entered by user is 3 and 6
+2022-07-13 12:20:06,279 root INFO we are into function
+2022-07-13 12:20:06,279 root INFO we have completed a division operation 
+2022-07-13 12:20:06,279 root INFO the result is 0.5 
